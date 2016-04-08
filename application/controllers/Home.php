@@ -22,7 +22,7 @@ class Home extends CI_Controller
 
         //establecemos las propiedades a través de los setters
         $user->setUsername("david luis");
-        $user->setEmail("davidluismail.com");
+        $user->setEmail("davidluis@gmail.com");
         $user->setPassword("misecreto");
 
         //guardamos la entidad en la tabla users
